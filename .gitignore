@@ -1,0 +1,41 @@
+
+# frontend dependencies
+one-nextjs-boilerplate/node_modules
+one-nextjs-boilerplate/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# testing
+one-nextjs-boilerplate/coverage
+
+# next.js
+one-nextjs-boilerplate/.next/
+one-nextjs-boilerplate//out/
+
+# production
+one-nextjs-boilerplate/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+
+
+
+# backend dependencies
+one-express-server-boilerplate/node_modules
