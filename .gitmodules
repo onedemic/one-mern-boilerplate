@@ -1,0 +1,3 @@
+[submodule "one-nextjs-boilerplate"]
+	path = one-nextjs-boilerplate
+	url = https://github.com/onedemic/one-mern-boilerplate.git
